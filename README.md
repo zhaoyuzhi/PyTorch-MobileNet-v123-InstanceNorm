@@ -8,5 +8,5 @@ The advance is the pre-trained models can seperate **each layer**.
 
 If you think this repo is helpful for your research, please star or fork.
 
-The download link (OneDrive) for MobileNet-v1, v2, v3-small and v3-large: [pre-trained-models](https://portland-my.sharepoint.com/:f:/g/personal/yzzhao2-c_ad_cityu_edu_hk/Ej_nCl7c-MtIm1M9Avxvl9EBjoZi2teGs-i7n8zWbJ8Bjg?e=YnQp8x)
+The download link (OneDrive) for MobileNet-v1, v2, v3-small and v3-large: [pre-trained-models](https://portland-my.sharepoint.com/:f:/g/personal/yzzhao2-c_my_cityu_edu_hk/EiDkg3ilvotFuAmu45cjvZkBKHPOPdiLKILP1NpmuoklNA?e=Bt5YA9)
 
